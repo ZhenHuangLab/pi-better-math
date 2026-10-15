@@ -1,3 +1,5 @@
+> Development and releases have moved to [pi-extensions/packages/pi-better-math](https://github.com/ZhenHuangLab/pi-extensions/tree/main/packages/pi-better-math). Please use the new repository for changes and issues.
+
 <h1 align="center"><code>pi-better-math</code></h1>
 
 <p align="center"><strong>Multi-line Unicode math for Pi's TUI</strong></p>
